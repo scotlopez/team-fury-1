@@ -21,16 +21,16 @@ hostsite-url/team-fury/index.php
 
 #### The outcome/status of the test on each script is either :
 
-##### ***1. Success :***
+##### ***1. Successful :***
 ###### if the output of the script meets the requirement.
 
-##### ***2. Failed :*** 
+##### ***2. Not Successful :*** 
 ###### if the output of the script does not meet the requirement.
 
 
 
 ```bash
-Requirement : Hello World, this is <Full Name> with <HNG ID> and email <Email> using <Script Language> `<for>` <Stage ?>
+Requirement : Hello World, this is <Full Name> with <HNG ID> and email <Email> using <Script Language> `for` <Stage ?>
 ```
 
 ### Example :

@@ -21,7 +21,7 @@ The result can be streamed in 2 forms :
 
 The outcome/status of the test on each script is either :
 
-	1. Success : if the output of the script meets the requirement.
+	1. Successful : if the output of the script meets the requirement.
 
 	2. Failed : if the output of the script does not meet the requirement.
 
