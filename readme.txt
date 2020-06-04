@@ -27,7 +27,7 @@ The outcome/status of the test on each script is either :
 
 
 
-Requirement : Hello World, this is <Full Name> with <HNG ID> and email <Email> using <Script Language> `<for>` <Stage ?>
+Requirement : Hello World, this is <Full Name> with <HNG ID> and email <Email> using <Script Language> for <Stage ?>
 
 	Example :
 
